@@ -1,0 +1,4 @@
+com\spring\microservices\core\model\Course.class
+com\spring\microservices\core\model\AbstractEntity.class
+com\spring\microservices\core\repository\CourseRepository.class
+com\spring\microservices\core\model\Course$CourseBuilder.class

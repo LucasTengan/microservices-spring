@@ -1,0 +1,3 @@
+com\spring\microservices\course\CourseApplication.class
+com\spring\microservices\course\endpoint\controller\CourseController.class
+com\spring\microservices\course\endpoint\service\CourseService.class
